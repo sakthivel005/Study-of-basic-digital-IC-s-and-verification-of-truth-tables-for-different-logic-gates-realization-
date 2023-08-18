@@ -98,20 +98,21 @@ nor (ynor,a,b);
 xnor (yxnor,a,b);
 endmodule
 */
-Logic symbol :
-RTL realization
+
+##Logic symbol :
+##RTL realization
 
 ![RTL diagram](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/ea681b67-5185-4d46-9aab-ec70cdf76272)
 
 
 
 
-Truthtable:
+##Truthtable:
 
 ![truth table](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/a67f299c-6374-4841-9753-f7a3969aac83)
 
 
-Output:
+##Output:
 RTL
 
 
@@ -119,5 +120,5 @@ RTL
 
 
 
-Result:
+##Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
