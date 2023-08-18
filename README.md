@@ -1,4 +1,9 @@
-![truth table](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/5434e0c5-91b0-45cd-9bc6-9f44770936f7)# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+```
+ NAME:R.SAKTHIVEL
+ REG NO:212222100044
+
+```
+# Study of basic digital IC-s and verification of truth tables for different logic gates realization
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
