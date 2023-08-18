@@ -82,7 +82,7 @@ Y= A⊕B
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 Program:
-/*
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: R.SAKTHIVEL
 RegisterNumber:  212222100044
@@ -97,10 +97,10 @@ nand (ynand,a,b);
 nor (ynor,a,b);
 xnor (yxnor,a,b);
 endmodule
-*/
+```
 
-##Logic symbol :
-##RTL realization
+Logic symbol :
+RTL realization
 
 ![RTL diagram](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/ea681b67-5185-4d46-9aab-ec70cdf76272)
 
