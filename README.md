@@ -1,7 +1,7 @@
-```
-Name:Sakthivel R
-Reg No:212222100044
-```
+
+## Name:Sakthivel R
+## Reg No:212222100044
+
 Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -62,6 +62,8 @@ Y= A⊕B
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 ## Program:
 ```
+Name:Sakthivel R
+Reg No:212222100044
 module Verificationoflogicgatres	(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7,y8;
