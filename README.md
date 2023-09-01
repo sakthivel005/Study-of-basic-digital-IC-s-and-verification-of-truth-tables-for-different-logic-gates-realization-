@@ -61,32 +61,32 @@ Y= A⊕B
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 ## Program:
-```
-Name:Sakthivel R
-Reg No:212222100044
-module Verificationoflogicgatres	(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
+Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+Developed by: SAKTHIVEL R
+RegisterNumber: 212222100044
+
+module assignment1(a,b,ynot,yand,yor,ynand,ynor,yxor,yxnor);
 input a,b;
-output y1,y2,y3,y4,y5,y6,y7,y8;
-not(y1,a);
-not(y2,b);
-and(y3,a,b);
-or(y4,a,b);
-nand(y5,a,b);
-nor(y6,a,b);
-xor(y7,a,b);
-xnor(y8,a,b);
-endmodule
-```
+output ynot,yand,yor,ynand,ynor,yxor,yxnor;
+not(ynot,a);
+and(yand,a,b);
+or(yor,a,b);
+nand(ynand,a,b);
+nor(ynor,a,b);
+xor(yxor,a,b);
+xnor(yxnor,a,b);
+endmodule 
 ## RTL Diagram:
 
-![RTL diagram](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/7d134eb9-fd67-46f9-8b16-fadb70220857)
+![Screenshot 2023-09-01 083911](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/700990be-47e1-4af7-9f89-b08139a7ad8b)
 
 ## Truthtable:
 
 ![truth table](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/17ad826e-b7e3-4a73-8880-bb58d12d77d6)
 
 ## Output:
-![D E output](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/1bea4ed8-cde2-435d-8b15-9ff7e966f765)
+
+![Screenshot 2023-09-01 083925](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/147f4710-322b-494e-b8b0-4c5499fd4ce1)
 
 
 ## Result:
