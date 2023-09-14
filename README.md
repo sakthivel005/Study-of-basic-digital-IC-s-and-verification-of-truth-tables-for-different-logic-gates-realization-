@@ -79,16 +79,18 @@ xnor(y8,a,b);
 endmodule
 ```
 ## RTL Diagram:
+![Screenshot 2023-09-14 180325](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/ae05d8aa-8728-4709-ac54-75a3271b364f)
 
-![Screenshot 2023-09-01 083911](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/700990be-47e1-4af7-9f89-b08139a7ad8b)
 
 ## Truthtable:
 
-![truth table](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/17ad826e-b7e3-4a73-8880-bb58d12d77d6)
+![Screenshot 2023-09-14 180311](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/e0caa1b3-59e9-454e-936c-65134997d56b)
+
 
 ## Output:
 
-![Screenshot 2023-09-01 083925](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/147f4710-322b-494e-b8b0-4c5499fd4ce1)
+![Screenshot 2023-09-14 180254](https://github.com/sakthivel005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120550359/19437eca-ec27-420d-b04b-25358ceb8021)
+
 
 
 ## Result:
